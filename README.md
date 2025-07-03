@@ -12,3 +12,4 @@ This Terminal mainly developed by me
 Do am gonna update it, maybe i will if i wanna do something.
 
 All license belongs to me trademarks etc but you can legally make other versions of this program.
+![lapidar menu](https://github.com/user-attachments/assets/ebed0479-3fa0-41a9-bd71-3536f8c8c576)
