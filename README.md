@@ -1,5 +1,5 @@
 # Lapidary
-A terminal Made by me 
+A terminal Made by me i mean Omurcek
 This terminal has 4 tools mainly for discord
 -Webhook tools
 -Discord Nitro Generators
