@@ -1,7 +1,7 @@
 ---
 name: Feature Suggestions
 about: Suggest an idea for this project
-title: ''
+title: 'İmprovement suggestions'
 labels: enhancement
 assignees: omurcek
 
