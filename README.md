@@ -33,7 +33,7 @@ Lapidary Terminal works on:
 - 🪟 Windows 7  
 - 🐧 Linux (Tested on major distros)
 - 📱 Termux (Android)
-- Mac Os (Not tested. It could work. Could someone test it for me!!!
+- 🍎 Mac Os (Not tested. It could work. Could someone test it for me!!!)
 
 > ⚠️ **Python is required** for Lapidary Terminal to function.  
 Make sure it's installed and added to your system PATH.
